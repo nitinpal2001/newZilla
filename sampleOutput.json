@@ -1,0 +1,266 @@
+{
+    status: "ok",
+    totalResults: 38,
+    articles: [
+    {
+    source: {
+    id: null,
+    name: "New York Times"
+    },
+    author: "Marc Santora, Anton Troianovski, Jane Arraf",
+    title: "Belarus-Poland Border Crisis: Live Updates - The New York Times",
+    description: "With thousands stranded on the border between Poland and Belarus, Russia sent conflicting signals. The Kremlin says it will not allow Belarus to disrupt the flow of natural gas to Europe. At the same time, Moscow flexed its military might in a show of support…",
+    url: "https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants",
+    urlToImage: "https://static01.nyt.com/images/2021/11/12/world/12poland-belarus-border-promo01/12poland-belarus-border-promo01-facebookJumbo-v2.jpg",
+    publishedAt: "2021-11-12T14:26:05Z",
+    content: "With thousands of migrants stranded on the Polish-Belarusian border and international pressure mounting to end the volatile standoff on the doorstep of the European Union, several airlines took steps… [+18427 chars]"
+    },
+    {
+    source: {
+    id: "cnn",
+    name: "CNN"
+    },
+    author: "Veronica Stracqualursi and Gabby Orr, CNN",
+    title: "Biden to nominate Dr. Rob Califf as FDA commissioner - CNN",
+    description: "Former President Donald Trump appeared to defend the threats made against then-Vice President Mike Pence during the January 6 insurrection in a new audio recording released Friday.",
+    url: "https://www.cnn.com/2021/11/12/politics/trump-pence-threats-january-6/index.html",
+    urlToImage: "https://cdn.cnn.com/cnnnext/dam/assets/211021223716-trump-iowa-rally-super-tease.jpg",
+    publishedAt: "2021-11-12T14:12:00Z",
+    content: null
+    },
+    {
+    source: {
+    id: "nbc-news",
+    name: "NBC News"
+    },
+    author: "Marlene Lenthang",
+    title: "Judge in Kyle Rittenhouse trial faces backlash for Asian food joke - NBC News",
+    description: "The judge in the Kyle Rittenhouse homicide trial is facing backlash for making an off-handed joke about Asian food in the courtroom Thursday.",
+    url: "https://www.nbcnews.com/news/us-news/judge-kyle-rittenhouse-trial-faces-backlash-asian-food-joke-rcna5392",
+    urlToImage: "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-11/211112-Bruce-Schroeder-al-0742-e33c85.jpg",
+    publishedAt: "2021-11-12T13:50:11Z",
+    content: "The judge in the Kyle Rittenhouse homicide trial is facing backlash for making an off-handed joke about Asian food in the courtroom Thursday.  I hope the Asian food isnt coming isnt on one of those … [+2225 chars]"
+    },
+    {
+    source: {
+    id: null,
+    name: "YouTube"
+    },
+    author: null,
+    title: "Keyshawn says OBJ gives the Rams a potent WR attack | Keyshawn, JWill and Max - ESPN",
+    description: "Keyshawn Johnson and Max Kellerman break down Odell Beckham Jr. joining the Rams and what that means for L.A.'s offense for the rest of the season.#ESPN #NFL...",
+    url: "https://www.youtube.com/watch?v=Zn8Vd6ZOzCo",
+    urlToImage: "https://i.ytimg.com/vi/Zn8Vd6ZOzCo/maxresdefault.jpg",
+    publishedAt: "2021-11-12T13:27:39Z",
+    content: null
+    },
+    {
+    source: {
+    id: null,
+    name: "The Guardian"
+    },
+    author: "Hugo Lowell",
+    title: "Appear before 6 January panel or risk prosecution, ex-Trump chief of staff told - The Guardian",
+    description: "Mark Meadows threatened with criminal contempt referral to DoJ should he refuse to show for deposition on Friday morning",
+    url: "https://amp.theguardian.com/us-news/2021/nov/12/mark-meadows-trump-white-house-capitol-attack-committee",
+    urlToImage: null,
+    publishedAt: "2021-11-12T13:26:00Z",
+    content: "US Capitol attackMark Meadows threatened with criminal contempt referral to DoJ should he refuse to show for deposition on Friday morning Fri 12 Nov 2021 13.24 GMT Former Trump White House chief of… [+4992 chars]"
+    },
+    {
+    source: {
+    id: null,
+    name: "CNBC"
+    },
+    author: "Matthew J. Belvedere",
+    title: "5 things to know before the stock market opens Friday - CNBC",
+    description: "U.S. stock futures rose Friday, helped by premarket strength in Dow component Johnson & Johnson on plans to split into two companies.",
+    url: "https://www.cnbc.com/2021/11/12/5-things-to-know-before-the-stock-market-opens-friday-nov-12.html",
+    urlToImage: "https://image.cnbcfm.com/api/v1/image/106905974-1625223609583-gettyimages-1233764530-CHINA-BEIJING-CPC-CENTENARY-GRAND-GATHERING-XI-JINPING-CN.jpg?v=1633927219",
+    publishedAt: "2021-11-12T13:20:00Z",
+    content: "Here are the most important news, trends and analysis that investors need to start their trading day: 1. Dow set to bounce, helped by gains in J&amp;J shares on split plans Traders on the floor of … [+4566 chars]"
+    },
+    {
+    source: {
+    id: null,
+    name: "NPR"
+    },
+    author: "Charles Maynes",
+    title: "Photos: A climate change journey across 18 countries and territories at risk : The Picture Show - NPR",
+    description: "Photographer Vlad Sokhin's latest work, Warm Waters, is an exploration of climate change traveling across 18 countries and off-the-map territories seen by seldom few.",
+    url: "https://www.npr.org/sections/pictureshow/2021/11/12/1054032730/photography-climate-change-global-warming-oceans-vlad-sokhin",
+    urlToImage: "https://media.npr.org/assets/img/2021/11/09/warm-waters_vlad-sokhin_1_wide-409750fdea8bbcde108c17dac4d10c71ec87c22d.jpg?s=1400",
+    publishedAt: "2021-11-12T13:09:52Z",
+    content: "Teafua Tanu is an islet of Tokelau used by residents of Fakaofo atoll as a Catholic cemetery. Over the past two decades, the territory of Tokelau has proved extremely vulnerable to climate change and… [+4994 chars]"
+    },
+    {
+    source: {
+    id: null,
+    name: "Yahoo Entertainment"
+    },
+    author: "Raechal Shewfelt",
+    title: "Paris Hilton marries Carter Reum in lavish L.A. ceremony - Yahoo Entertainment",
+    description: "This is the first marriage for the reality star and the venture capitalist.",
+    url: "https://www.yahoo.com/entertainment/paris-hilton-marries-carter-reum-130200920.html",
+    urlToImage: "https://s.yimg.com/ny/api/res/1.2/iBBAWkF6Q_4VW74E.nADQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05OTc-/https://s.yimg.com/os/creatr-uploaded-images/2021-11/64e83090-43b6-11ec-adce-ffdd4c40920d",
+    publishedAt: "2021-11-12T13:02:00Z",
+    content: "Paris Hilton has made it official with venture capitalist Carter Reum. The two exchanged vows Thursday in a lavish ceremony at the estate of her late grandfather, Barron Hilton, in the tony Los Ange… [+2222 chars]"
+    },
+    {
+    source: {
+    id: "engadget",
+    name: "Engadget"
+    },
+    author: "https://www.engadget.com/about/editors/james-trew",
+    title: "Evercade VS is a home retro console for collectors. | Engadget - Engadget",
+    description: "Nostalgia is more than just games from the past and the makers of Evercade know this.",
+    url: "https://www.engadget.com/evercade-vs-retro-home-console-review-130025234.html",
+    urlToImage: "https://s.yimg.com/os/creatr-uploaded-images/2021-11/c28be100-43a3-11ec-8ef6-51c0d4622135",
+    publishedAt: "2021-11-12T13:01:22Z",
+    content: "Between 2016 and 2019, retro gaming had a moment. I mean anothermoment. A very specific one where gamings greatest all released mini versions of their most iconic consoles. NES? Yep. SNES? Sure. Gene… [+7639 chars]"
+    },
+    {
+    source: {
+    id: "cbs-news",
+    name: "CBS News"
+    },
+    author: null,
+    title: "Britney Spears' conservatorship could end at today's hearing - CBS News",
+    description: "The prosthetic-tailed dolphin's real-life story of rehabilitation became an inspiration for disabled people around the world. It died of intestinal issues.",
+    url: "https://www.cbsnews.com/news/dolphin-tale-winter-dies-florida-aquarium-age-16/",
+    urlToImage: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/11/12/68480255-e81c-4ce9-acc4-30feae69e17a/thumbnail/1200x630/63e4e671d293cd8a2bea5823f815349c/ap21312517623518.jpg",
+    publishedAt: "2021-11-12T13:00:00Z",
+    content: "Clearwater, Florida — A prosthetic-tailed dolphin named Winter that starred in the "Dolphin Tale" movies died Thursday evening at a Florida aquarium despite life-saving efforts to treat a gastrointes… [+3739 chars]"
+    },
+    {
+    source: {
+    id: "cnn",
+    name: "CNN"
+    },
+    author: "Chris Isidore, CNN Business",
+    title: "Elon Musk is selling more Tesla shares - CNN",
+    description: "Elon Musk sold another block of Tesla shares Thursday.",
+    url: "https://www.cnn.com/2021/11/12/investing/elon-musk-tesla-stock-sales/index.html",
+    urlToImage: "https://cdn.cnn.com/cnnnext/dam/assets/211112072124-02-elon-musk-0813-file-super-tease.jpg",
+    publishedAt: "2021-11-12T12:49:00Z",
+    content: null
+    },
+    {
+    source: {
+    id: "cbs-news",
+    name: "CBS News"
+    },
+    author: "Meg Meg",
+    title: "Once-healthy kids struggling with symptoms months after COVID-19 infection - CBS News",
+    description: "A recent study found that COVID affects one in seven children months after they were infected.",
+    url: "https://www.cbsnews.com/news/covid-19-kids-long-haul-symptoms/",
+    urlToImage: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/11/12/95ec43d1-b0bf-4804-8ba2-6b21909cc68e/thumbnail/1200x630/9576de7213bbe4f87452a52fd8c19f94/1636675227310.png",
+    publishedAt: "2021-11-12T12:37:32Z",
+    content: "Madison Foor, a 14-year-old competitive dancer, was healthy before she contracted COVID-19 in January. Ten months later, she uses an inhaler every day.  "It feels a little scary, like I can't breath… [+1584 chars]"
+    },
+    {
+    source: {
+    id: null,
+    name: "CNBC"
+    },
+    author: "Chloe Taylor",
+    title: "Austria to impose lockdown on millions of unvaccinated people as Covid cases surge - CNBC",
+    description: "Austria is expected to impose lockdown restrictions on millions of unvaccinated people in the coming days.",
+    url: "https://www.cnbc.com/2021/11/12/covid-austria-to-impose-lockdowns-on-millions-of-unvaccinated-people.html",
+    urlToImage: "https://image.cnbcfm.com/api/v1/image/106974746-1636720138379-gettyimages-1236144093-AA_26102021_501818.jpeg?v=1636720184",
+    publishedAt: "2021-11-12T12:30:06Z",
+    content: "Austria is expected to impose lockdown restrictions on millions of unvaccinated people in the coming days. Chancellor Alexander Schallenberg told a press conference Friday that his government wanted… [+3205 chars]"
+    },
+    {
+    source: {
+    id: "cnn",
+    name: "CNN"
+    },
+    author: "Toyin Owoseje, CNN",
+    title: "Taylor Swift releases 'Red (Taylor's Version),' an expanded rerecording of her classic 2012 album - CNN",
+    description: "Taylor Swift has unlocked the vault, releasing "Red (Taylor's Version)," a rerecording of her acclaimed 2012 album "Red" that also includes nine previously unreleased songs.",
+    url: "https://www.cnn.com/2021/11/12/entertainment/taylor-swift-red-taylors-version-intl-scli/index.html",
+    urlToImage: "https://cdn.cnn.com/cnnnext/dam/assets/211112041327-taylor-swift-1030-super-tease.jpg",
+    publishedAt: "2021-11-12T12:04:00Z",
+    content: null
+    },
+    {
+    source: {
+    id: "cnn",
+    name: "CNN"
+    },
+    author: "Alex Rogers, CNN",
+    title: "House Democrats to introduce resolution censuring Paul Gosar for video depicting violence against Ocasio-Cortez and Biden - CNN",
+    description: "House Democrats plan to introduce a resolution Friday to censure Arizona Republican Rep. Paul Gosar for posting a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacki…",
+    url: "https://www.cnn.com/2021/11/12/politics/paul-gosar-censure-resolution-introduced/index.html",
+    urlToImage: "https://cdn.cnn.com/cnnnext/dam/assets/200106224631-paul-gosar-jan-7-2016-super-tease.jpg",
+    publishedAt: "2021-11-12T12:02:00Z",
+    content: "(CNN)House Democrats plan to introduce a resolution Friday to censure Arizona Republican Rep. Paul Gosar for posting a photoshopped anime video to his Twitter and Instagram accounts showing him appea… [+2472 chars]"
+    },
+    {
+    source: {
+    id: "cnn",
+    name: "CNN"
+    },
+    author: "Walé Azeez, CNN Business",
+    title: "AstraZeneca is starting to profit from sales of its Covid-19 vaccine - CNN",
+    description: "AstraZeneca has booked its first profit from sales of its Covid-19 vaccine.",
+    url: "https://www.cnn.com/2021/11/12/business/astrazeneca-profits-covid-19-vaccine/index.html",
+    urlToImage: "https://cdn.cnn.com/cnnnext/dam/assets/211112033937-astrazeneca-covid-vaccine-australia-0503-super-tease.jpg",
+    publishedAt: "2021-11-12T11:52:00Z",
+    content: null
+    },
+    {
+    source: {
+    id: null,
+    name: "CNBC"
+    },
+    author: "Jesse Pound, Dawn Kopecki",
+    title: "J&J plans to split into two companies, separating consumer products and pharmaceutical businesses - CNBC",
+    description: "Shares rose more than 4% in premarket trading after the announcement.",
+    url: "https://www.cnbc.com/2021/11/12/jj-shares-jump-after-ceo-says-health-giant-plans-to-break-up-in-wsj-report.html",
+    urlToImage: "https://image.cnbcfm.com/api/v1/image/106911132-1626310925572-gettyimages-1233004651-IGOR8318.jpeg?v=1636716971",
+    publishedAt: "2021-11-12T11:30:28Z",
+    content: "Health-care conglomerate Johnson &amp; Johnson announced plans Friday to split its consumer products business from its pharmaceutical and medical device operations, creating two publicly traded compa… [+2014 chars]"
+    },
+    {
+    source: {
+    id: "the-washington-post",
+    name: "The Washington Post"
+    },
+    author: "Andrew Jeong, Adela Suliman, Reis Thebault",
+    title: "Covid-19 live updates: Colorado allows all adults to get vaccine boosters, going beyond federal guidance - The Washington Post",
+    description: "Colorado is one of several states in the north and Mountain West where coronavirus infections are once again on the rise.",
+    url: "https://www.washingtonpost.com/nation/2021/11/12/covid-delta-variant-live-updates/",
+    urlToImage: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TUHS24CDRYI6ZFAEKCRIVCFZZU.jpg&w=1440",
+    publishedAt: "2021-11-12T11:15:00Z",
+    content: "Colorado Gov. Jared Polis (D), facing one of the nations worst surges of new coronavirus cases, issued an executive order Thursday allowing all adults in his state to receive a vaccine booster dose, … [+1868 chars]"
+    },
+    {
+    source: {
+    id: null,
+    name: "GamesRadar+"
+    },
+    author: "Hirun Cryer",
+    title: "Most played PS5 games revealed for console's first anniversary - GamesRadar+",
+    description: "Shooters and sports games dominate the most-played list",
+    url: "https://www.gamesradar.com/most-played-ps5-games-revealed-for-consoles-first-anniversary/",
+    urlToImage: "https://cdn.mos.cms.futurecdn.net/jy8RsVd9YLA986oWyTRiaf-1200-80.jpg",
+    publishedAt: "2021-11-12T11:14:43Z",
+    content: "The most played games on PS5 have been revealed, and Fortnite has taken the crown. Earlier today on November 12, PlayStation boss Jim Ryan celebrated the one-year anniversary of the PS5 with a new P… [+1726 chars]"
+    },
+    {
+    source: {
+    id: null,
+    name: "PhoneArena"
+    },
+    author: "Daniel Petrov",
+    title: "Galaxy S22 series price leak spells trouble for the Ultra buyers - PhoneArena",
+    description: "Prepare to pay more for 256GB of S22 line base storage.",
+    url: "https://www.phonearena.com/news/samsung-galaxy-s22-series-price-leak_id136395",
+    urlToImage: "https://m-cdn.phonearena.com/images/article/136395-wide-two_1200/Galaxy-S22-series-price-leak-spells-trouble-for-the-Ultra-buyers.jpg",
+    publishedAt: "2021-11-12T11:08:15Z",
+    content: "This is our new notification center. Inside, you will find updates on the most important things happening right now. Got it"
+}
+    ]
+}

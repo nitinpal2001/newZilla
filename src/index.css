@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo{
+    color: white;
+    font-weight: 700;
+}
+
+.heading{
+    font-size: xx-large;
+    font-weight: 600;
+}
